@@ -9,7 +9,7 @@ Additional Info:
 
 _Note: This is just a simple and quick demo to give an idea of how to implement this functionality in Flutter_
 
-_Note2: You can play with the initial location and destination by changing the hard-coded coordinates_
+_Note2: You can play with the initial location and destination for the polylines by changing the hard-coded coordinates_
 
 # How to simulate route in Android
 - Tap the three circles icon -> Location -> Routes
