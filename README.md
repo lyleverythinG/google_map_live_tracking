@@ -1,5 +1,5 @@
 # Google_Maps_Live_Tracking
-_This project shows a simple example of tracking a user location in real time and display it in Google Maps with polylines and custom marker _.
+_ This project shows a simple example of tracking a user location in real time and display it in Google Maps with polylines and custom marker _.
 
 Additional Info:
 - Add your google api key in androidmanifest.xml, home.dart.
