@@ -9,6 +9,11 @@ Additional Info:
 
 _Note: This is just a simple and quick demo to give an idea of how to implement this functionality in Flutter_
 
+_Note2: You can play with the initial location and destination by changing the hard-coded coordinates_
+
+# How to simulate route in Android
+- Tap the three circles icon -> Location -> Routes
+
 Packages Used:
 - flutter_polyline_points - Used for implementing the polylines.
 - google_maps_flutter - Used for displaying the google maps and functionalities related to it.
