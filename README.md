@@ -6,7 +6,7 @@ Additional Info:
 - You need to add a billing account in google cloud console for your api_key to work.
 - You can create a google api key in the google cloud console.
 - You need to enable Directions API in the google cloud console for the functionality to work.
-_Note: This is just a simple and quick demo to give an idea of how to implement this functionality in Flutter.
+_Note: This is just a simple and quick demo to give an idea of how to implement this functionality in Flutter_
 
 Packages Used:
 - flutter_polyline_points - Used for implementing the polylines.
